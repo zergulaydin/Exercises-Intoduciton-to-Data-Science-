@@ -1,2 +1,2 @@
-# titanic
-Enm 440 Introduction Data Mining dersinde yapılan pandas kütüphanesine ait alıştırmalar
+#Exercises-Introduciton-to-Data-Science
+Enm 440 Introduction Data Mining dersinde yapılan uygulama kodları
